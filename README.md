@@ -10,4 +10,4 @@
 ## Caseys instructions
 * follow the instructions in the associated image.
 
-[![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Paper_Airplane.png/300px-Paper_Airplane.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Paper_Airplane.png/300px-Paper_Airplane.png)
